@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.small-margin-right{
+margin-right: 0.1em;
+}
+.small-margin-right:last-child{
+  margin-right: 0em;
+}
+
